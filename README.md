@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Open Source & GitHub**
 - 💬 Ask me about **Everything**
-- 📫 How to reach me: [jaewoo4868@github.com](https://github.com/jaewoo4868)
+- 📫 How to reach me: [https://github.com/jaewoo4868](https://github.com/jaewoo4868)
 
 <br/>
 
