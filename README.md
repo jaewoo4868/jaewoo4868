@@ -6,6 +6,4 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewoo4868&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewoo4868&layout=compact&theme=radical)
+![Jaewoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewoo4868&show_icons=true&theme=radical)
